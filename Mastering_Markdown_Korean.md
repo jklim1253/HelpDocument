@@ -15,7 +15,7 @@ Origianl Document : https://guides.github.com/features/mastering-markdown/
 
 ## 마크다운이 뭐지?
 
-(마크다운)[http://daringfireball.net/projects/markdown/]은 웹에서 글을 꾸미는 하나의 방식입니다.
+[마크다운](http://daringfireball.net/projects/markdown/)은 웹에서 글을 꾸미는 하나의 방식입니다.
 여러분은 문서의 표현을 조절합니다 : 단어를 굴게 만든다거나 이텔릭체로 만드는 것, 이미지를 추가하는 것, 목록을 만드는 것들은 마크다운으로 할 수 있는 것들 중 아주 작은 일부입니다.
 대부분의 경우, 마크다운은  알파벳이 아닌 # 이나 \*가 들어간 그냥 일반 텍스트 파일입니다.
 
